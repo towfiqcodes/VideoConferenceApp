@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729773336759",
+    "firebase_url": "https://video-meeting-conference.firebaseio.com",
+    "project_id": "video-meeting-conference",
+    "storage_bucket": "video-meeting-conference.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729773336759:android:a415d6146bf21a16fcc532",
+        "android_client_info": {
+          "package_name": "com.rnt.videomeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729773336759-eciv1s7pos9uviulvuqv0f6hn4mp97mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnt.videomeeting",
+            "certificate_hash": "c1010725303c83b3007a5019ba7740a337d3018c"
+          }
+        },
+        {
+          "client_id": "729773336759-i3kkn6e9vjqm5aetptrr5a2eq7bmp9ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6xN5p4wHP1gQEuDfuYqTzmX8IH9fxqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729773336759-i3kkn6e9vjqm5aetptrr5a2eq7bmp9ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
